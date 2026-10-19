@@ -1,0 +1,1 @@
+This is just a README created for explaining the project workflow between the teammates.
